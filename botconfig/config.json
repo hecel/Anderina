@@ -1,0 +1,13 @@
+{
+    "TOKEN": "",
+    "openai_key": "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",
+    "YT_API": "AIzaSyAeJxVmbOCI2Woacf0IdXglDlJKQWDgeYg",
+    "prefix": "an!",
+    "owner": ["799600249265192961", "745841820201910303"],
+    "developer": "Riz#3894",
+    "hostedBy": true,
+    "everyoneMentions": true,
+    "DEVAULT_VOLUME": 100,
+    "STAY_TIME": 30,
+    "mongooseConnectionString": "mongodb+srv://wulvies:wulvies123@nanda.zo3ry.mongodb.net/Data"
+}
